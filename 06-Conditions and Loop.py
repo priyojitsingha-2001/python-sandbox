@@ -17,6 +17,11 @@ block="else if"
 # else:
 #     print("This is else block")
 
+# short hand if-else statements
+# a=20
+# b=40
+# print(a) if a<b else print(b)
+
 
 #                        a basic exercise 
 # first=int(input())
